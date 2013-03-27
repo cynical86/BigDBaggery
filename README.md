@@ -1,4 +1,4 @@
-bigdata-baggery
+BigDBaggery
 ===============
 
 Chrome extension that replaces occurrences of 'Big Data' with 'Douchebaggery'
